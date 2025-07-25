@@ -65,13 +65,6 @@ Built by Team Egypt for **WCHL25 Hackathon**, supported by ICP Hub Egypt.
 
 This project is under active development. Code will be pushed progressively during the hackathon timeline.
 
----
-
-## 📬 Contact
-
-For questions or collaboration:
-- Telegram: [@YourHandle]
-- Email: [youremail@example.com]
 
 ---
 
