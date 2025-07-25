@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "temp-project-backend": {
+      "candid": "src/temp-project-backend/temp-project-backend.did",
+      "package": "temp-project-backend",
+      "type": "rust"
+    },
+    "temp-project-frontend": {
+      "dependencies": [
+        "temp-project-backend"
+      ],
+      "source": [
+        "src/temp-project-frontend/assets"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
